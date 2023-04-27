@@ -1,0 +1,58 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: "Roboto", sans-serif;
+}
+	
+	section{
+		padding:50px 0px;
+	}
+		
+	.container{
+		width:90%;
+		margin:auto;
+	}
+	
+	.fa-solid{
+		color:red;
+		display:none;
+		
+	}
+	
+	.icon{
+		display:flex;
+		align-items:center;
+		padding:0px 10px;
+		gap:1%;
+	}
+	
+	i{
+		font-size:25px;
+		padding:5px 3px;
+		cursor:pointer;
+	}
+	
+	img{
+		width:406px;
+		height:300px;
+		border-radius: 10px 10px 0px 0px
+	}
+	
+	.fa-message {
+		font-size:20px;
+	}
+	
+	.fa-paper-plane{
+		font-size:20px;
+	}
+	
+	.col {
+		box-shadow: 2px 2px 25px #ccc;
+		width: 33%;
+		border-radius:10px;
+	}
+	
+	p{
+		padding:5px 15px 25px;
+	}
